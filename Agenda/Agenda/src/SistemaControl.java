@@ -1,9 +1,3 @@
-
-
-/**
- *
- * @author 28253995
- */
 public class SistemaControl {
 
    
